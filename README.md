@@ -8,7 +8,7 @@
 ## The App
 ![4eddit](https://user-images.githubusercontent.com/60905493/90412665-c2b1ef00-e083-11ea-9880-c40957bdab17.gif)
 
-The API was provided by Labenu. [API Documentation]()
+The API was provided by Labenu. [API Documentation](https://documenter.getpostman.com/view/7549981/SW7T9XRj?version=latest)
 
 A fictitious social network was created reproducing reddit services, such as:</br>
 
