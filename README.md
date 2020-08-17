@@ -8,8 +8,19 @@
 ## The App
 ![4eddit](https://user-images.githubusercontent.com/60905493/90412665-c2b1ef00-e083-11ea-9880-c40957bdab17.gif)
 
+The API was provided by Labenu. [API Documentation]()
 
+We develop the entire front-end concerned with best code practices.</br>
 
+A fictitious social network was created reproducing reddit services, such as:</br>
+
+[x]user registration
+[x]user authentication
+[x]login
+[x]user posts feed
+[x]creating posts
+[x]voting system in posts
+[x]comment system on posts
 
 
 
