@@ -10,8 +10,6 @@
 
 The API was provided by Labenu. [API Documentation]()
 
-We develop the entire front-end concerned with best code practices.</br>
-
 A fictitious social network was created reproducing reddit services, such as:</br>
 
 - [x] user registration
@@ -22,7 +20,7 @@ A fictitious social network was created reproducing reddit services, such as:</b
 - [x] voting system in posts
 - [x] comment system on posts
 
-
+We develop the entire front-end concerned with best code practices.</br>
 
 ## Tools and technologies 🛠
 Environment: Node.js</br>
