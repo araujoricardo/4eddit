@@ -1,9 +1,9 @@
 # 4eddit 📖💻
-4eddit is an imaginary mobile social network, which reproduces complete services similar to reddit.
-
 <p align="center">
 <img src="https://github.com/araujoricardo/4eddit/blob/master/4eddit/src/img/logo.png"/>
 </p>
+
+4eddit is an imaginary mobile social network, which reproduces complete services similar to reddit.
 
 ## The App
 ![4eddit](https://user-images.githubusercontent.com/60905493/90412665-c2b1ef00-e083-11ea-9880-c40957bdab17.gif)
